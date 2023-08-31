@@ -1,0 +1,25 @@
+{
+	"manifest_version": 3,
+	"name": "Serge",
+	"description": "Chat with LLaMA directly in the browser sidebar.",
+	"version": "1.0.0",
+    "icons": {
+        "16": "/assets/img/icons/icon16.png",
+        "32": "/assets/img/icons/icon32.png",
+        "96": "/assets/img/icons/icon96.png",
+        "128": "/assets/img/icons/icon128.png",
+        "256": "/assets/img/icons/icon256.png"
+    },
+    "sidebar_action": {
+        "default_icon": {
+            "16": "/assets/img/icons/icon16.png",
+            "32": "/assets/img/icons/icon32.png",
+            "96": "/assets/img/icons/icon96.png",
+            "128": "/assets/img/icons/icon128.png",
+            "256": "/assets/img/icons/icon256.png"
+        },
+		"default_title": "Serge - Powered by LLaMA",
+        "default_panel": "popup.html"
+    },
+    "author": "Phoenix_R49"
+}

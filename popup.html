@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="/assets/css/style.css" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous" />
+	</head>
+	<body>
+        <main>
+            <div style="margin-bottom: 30px; text-align: center">
+                <h1>Welcome to Serge for Opera</h1>
+            </div>
+            <form id="form" method="post" class="row g-3 needs-validation" novalidate>
+                <div class="col-12">
+                    <label for="url" class="form-label">Serge instance URL</label>
+                    <input type="url" class="form-control" value="http://localhost:8008" name="url" id="url" required />
+                    <div class="invalid-feedback">Invalid URL</div>
+                </div>
+                <div class="col-12">
+                    <button class="btn btn-primary" type="submit">Enter</button>
+                </div>
+            </form>
+            <p>For a better experience, please enlarge the window.</p>
+        </main>
+		<footer>
+            <p>&copy; 2023 Phoenix_R49</p>
+			<a href="/privacy.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+		</footer>
+		<script src="/assets/js/app.js"></script>
+	</body>
+</html>
