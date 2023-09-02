@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "Serge",
+	"name": "Serge Chat",
 	"description": "Chat with LLaMA directly in the browser sidebar.",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "icons": {
         "16": "/assets/img/icons/icon16.png",
         "32": "/assets/img/icons/icon32.png",
