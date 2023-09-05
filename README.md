@@ -32,4 +32,4 @@ Serge for Opera was developed by [Phoenix_R49](https://github.com/PhoenixR49).
 
 ## License
 
-This project is licensed under the Apache 2.0 License. For more details, please refer to the [LICENSE](https://github.com/Phoenix/serge-for-opera/blob/main/LICENSE) file.
+This project is licensed under the Apache 2.0 License. For more details, please refer to the [LICENSE](https://github.com/PhoenixR49/serge-for-opera/blob/main/LICENSE) file.
